@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetJsonData", "GetJsonData.csproj", "{1332C15B-6A07-4A2C-A3C3-42D3357FC71E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1332C15B-6A07-4A2C-A3C3-42D3357FC71E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1332C15B-6A07-4A2C-A3C3-42D3357FC71E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1332C15B-6A07-4A2C-A3C3-42D3357FC71E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1332C15B-6A07-4A2C-A3C3-42D3357FC71E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ABA3DCF3-9875-4795-99CA-B13429A8B542}
+	EndGlobalSection
+EndGlobal
